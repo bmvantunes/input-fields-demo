@@ -8,3 +8,7 @@ fieldset, form, label {
 button {
   margin: 1rem;
 }
+
+.error {
+  color: red;
+}
