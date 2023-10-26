@@ -4,4 +4,5 @@ const path = require('path');
 module.exports = {
   ...nxPreset,
   setupFilesAfterEnv: [path.resolve(__dirname, 'setupFilesAfterEnv.ts')],
+  clearMocks: true
 };
