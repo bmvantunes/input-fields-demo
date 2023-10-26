@@ -10,7 +10,7 @@ export default function Index() {
         console.log('Submitted Data', data);
       }}
     >
-      <p>Add onSubmit and show no data, because no name on inputs</p>
+      <p>Add name and show data on submit</p>
 
       <fieldset>
         <label htmlFor="first-name">First Name</label>
