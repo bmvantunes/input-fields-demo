@@ -1,4 +1,4 @@
-fieldset, form {
+fieldset, form, label {
   display: flex;
   flex-direction: column;
   gap: 1rem;
