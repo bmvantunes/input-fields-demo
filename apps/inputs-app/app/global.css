@@ -1,0 +1,10 @@
+fieldset, form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  border: none;
+}
+
+button {
+  margin: 1rem;
+}
