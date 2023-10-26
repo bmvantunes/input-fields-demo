@@ -24,13 +24,13 @@ export default function Index() {
 
       <fieldset>
         <label htmlFor="age">age</label>
-        <input id="age" />
+        <input id="age"  />
       </fieldset>
 
       <fieldset>
         <label>
           Extra Input to Show example without IDs
-          <input />
+          <input  />
         </label>
       </fieldset>
 
